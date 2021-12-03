@@ -1,3 +1,4 @@
+<?php
 echo("
     <form action='/host' method='get'>
         <input type='text' name='hostname' placeholder='Doména'>
